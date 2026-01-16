@@ -17,4 +17,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | `<Add more>` | `<CCID>`  |
 
 ## Demo
-[lab2-demo]
+![lab2-demo.gif]
