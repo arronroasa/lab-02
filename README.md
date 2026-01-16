@@ -7,14 +7,14 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Google, Gemini 3
+
+Handling Click Events in Button in Java Android, GeeksForGeeks [accessed Jan 15, 2026]  
+https://www.geeksforgeeks.org/android/handling-click-events-button-android-java/
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
 
 ## Demo
 ![demo](images/lab2-demo.gif)
